@@ -2,8 +2,6 @@
 
 My name is Felipe Cisternas Alvarez, I'm from Chile and I'm a Computer Science & Engineer Student
 
-Currently working at MyFutureAI as a Data Science Intern
-
 I like to Learn about Data Science, Machine Learning, Deep Learning, Quantum Computing
 
 ## Skills
