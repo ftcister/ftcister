@@ -14,4 +14,4 @@ I like to Learn about Data Science, Machine Learning, Deep Learning, Quantum Com
 * Git, AWS, Docker, FastAPI, Streamlit
 
 ## Contact 
-Find my resume, projects and achievements in my [Linkedin Profile](https://www.linkedin.com/in/felipecisternasalvarez/)
+Find my resume, projects and achievements in my [Portfolio](https://ftcister.github.io/portfolio/) or connect in [Linkedin](https://www.linkedin.com/in/felipecisternasalvarez/).
