@@ -2,7 +2,9 @@
 
 # About Me:
 My name is Felipe Cisternas Alvarez, I'm from Chile and I am a Data Scientist at  <a href="https://digevo.com/en/" target="_blank">Digevo</a>.
-I am a Computer Science engineer and I am currently pursuing a master's degree in computer science at <a href="https://usm.cl/en/home/" target="_blank">Federico Santa María Technical University</a>.  
+
+I am a Computer Science engineer and I am currently pursuing a master's degree in computer science at <a href="https://usm.cl/en/home/" target="_blank">Federico Santa María Technical University</a>.
+
 My area of ​​​​specialization is Data Science, Artificial Intelligence, Machine Learning and Deep Learning.
 
 I have experience working with:
