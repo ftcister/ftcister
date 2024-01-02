@@ -1,7 +1,7 @@
 # Hello! 👋
 
 # About Me:
-My name is Felipe Cisternas Alvarez, I'm from Chile and I am a Data Scientist at  <a href="https://digevo.com/en/" target="_blank">Digevo</a>.
+My name is Felipe Cisternas Alvarez, I'm from Chile and I am a Machine Learning Engineer at <a href="https://notco.com/cl/" target="_blank">NotCo</a>.
 
 I am a Computer Science engineer and I am currently pursuing a master's degree in computer science at <a href="https://usm.cl/en/home/" target="_blank">Federico Santa María Technical University</a>.
 
