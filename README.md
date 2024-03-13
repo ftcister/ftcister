@@ -1,5 +1,7 @@
 # Hello! 👋
 
+![](dark_souls.gif)
+
 # About Me:
 My name is Felipe Cisternas Alvarez, I'm from Chile and I am a Machine Learning Engineer at <a href="https://notco.com/cl/" target="_blank">NotCo</a>.
 
